@@ -1,0 +1,12 @@
+header {
+  background-color: black;
+}
+
+body {
+  background-color: aqua;
+}
+
+body h1 {
+  font-size: 25px;
+  color: red;
+}
